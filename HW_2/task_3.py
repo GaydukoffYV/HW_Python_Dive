@@ -36,3 +36,10 @@ prod_frac = multiply_fractions(frac1, frac2)
 
 print("Сумма дробей:", sum_frac[0], '/', sum_frac[1])
 print("Произведение дробей:", prod_frac[0], '/', prod_frac[1])
+
+# frac1 = Fraction(a, b)
+# frac2 = Fraction(c, d)
+# sum_frac = frac1 + frac2
+# prod_frac = frac1 * frac2
+# print(sum_frac)
+# print(prod_frac)
